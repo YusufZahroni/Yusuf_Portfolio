@@ -30,7 +30,7 @@ const resume = () => {
         <div className="text-center py-4 text-xl font-bold uppercase tracking-wider">
           <div className="hidden sm:block">
             <p>
-              Front-end <span className="px-1">|</span> Back-end{" "}
+              Frontend <span className="px-1">|</span> Backend{" "}
               <span className="px-1">|</span> Web Development
             </p>
           </div>
@@ -72,8 +72,7 @@ const resume = () => {
             <span className="py-4"> Yusuf Zahroni</span>
           </p>
         </div>
-
-        <h5 className="text-center">| THANK'S</h5>
+        <h5 className="text-center">THANKS</h5>
       </div>
     </>
   );
